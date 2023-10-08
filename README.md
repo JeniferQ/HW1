@@ -1,9 +1,11 @@
-<<<<<<< Updated upstream
 # HW1
-=======
+
 # Duo: Jenifer and Music
 
 We want to achieve success!
+
+# Duo Jenifer and Music
+
 
 ## Apapat Juntarattanakamol (Music)
 
@@ -88,4 +90,4 @@ Jenifer Quelali Evangelista and Apapat Juntarattanakamol
 
 ## License
 MIT License
->>>>>>> Stashed changes
+
