@@ -1,10 +1,12 @@
 # Duo Jenifer and Music
 
+
 ## Apapat Juntarattanakamol (Music)
 
 **Background:**
 
-I am a girl from Thailand, who loves to sing and hangout.
+I am a girl from Bangkok, Thailand. Who loves to sing and hangout.
+![Bangkok](images/bangkok.jpg)
 
 **Hobbies. :**
 1. Sing a song.
