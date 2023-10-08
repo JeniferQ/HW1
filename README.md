@@ -1,11 +1,6 @@
-# HW1
-
 # Duo: Jenifer and Music
 
 We want to achieve success!
-
-# Duo Jenifer and Music
-
 
 ## Apapat Juntarattanakamol (Music)
 
