@@ -12,25 +12,25 @@ I am a girl from Thailand, who loves to sing and hangout.
 3. Hangout with friends.
 
 **Skills:**
-1. I creative an artwork on procreat
-2. Organizational skill
+1. Creativity
+2. Organization
 
 
-**Favourite Music Band:**
+**Favourite Music Bands:**
 1. wave to eart
 2. hybs
 3. brb.
 4. Arctic Monkeys
 5. The Academic
 
-**My favourite website:**
-1. [bangkokillustrationfair](https://bangkokillustrationfair.com/artist/2023/1273)
-2. [pinterest](https://www.pinterest.com/)
+**My Favourite Website:**
+1. [Bangkokillustrationfair](https://bangkokillustrationfair.com/artist/2023/1273)
+2. [Pinterest](https://www.pinterest.com/)
 
-**Fan Art Work experiences:**
+**Fan Artwork Experiences:**
 
-![Fender Telecaster](images/IMG_3836.jpg)
-![Fender Telecaster](images/IMG_3837.jpg)
-![Fender Telecaster](images/IMG_3838.jpg)
-![Fender Telecaster](images/IMG_3840.jpg)
-![Fender Telecaster](images/IMG_3841.jpg)
+![Artwork1](images/IMG_3836.jpg)
+![Artwork2](images/IMG_3837.jpg)
+![Artwork3](images/IMG_3838.jpg)
+![Artwork4](images/IMG_3840.jpg)
+![Artwork5](images/IMG_3841.jpg)
