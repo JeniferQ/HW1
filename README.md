@@ -5,7 +5,7 @@
 **Background:**
 I am a girl from Thailand, who loves to sing and hangout.
 
-**Hobbies:**
+**Hobbies. :**
 1. Sing a song.
 2. Watch movie.
 3. Hangout with friends.
@@ -24,3 +24,7 @@ I am a girl from Thailand, who loves to sing and hangout.
 ![Fender Telecaster](images/IMG_3838.jpg)
 ![Fender Telecaster](images/IMG_3840.jpg)
 ![Fender Telecaster](images/IMG_3841.jpg)
+
+**My favourite website:**
+1. [bangkokillustrationfair](https://bangkokillustrationfair.com/artist/2023/1273)
+2. [pinterest](https://www.pinterest.com/)
