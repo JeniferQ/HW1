@@ -18,7 +18,7 @@ I am a girl from Thailand, who loves to sing and hangout.
 5. The Academic
 
 **Art Work experiences:**
-<b>
+
 ![Fender Telecaster](images/IMG_3836.jpg)
 ![Fender Telecaster](images/IMG_3837.jpg)
 ![Fender Telecaster](images/IMG_3838.jpg)
