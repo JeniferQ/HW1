@@ -34,6 +34,3 @@ I am a girl from Thailand, who loves to sing and hangout.
 ![Fender Telecaster](images/IMG_3838.jpg)
 ![Fender Telecaster](images/IMG_3840.jpg)
 ![Fender Telecaster](images/IMG_3841.jpg)
-
-
-
